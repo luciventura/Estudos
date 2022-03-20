@@ -14,5 +14,6 @@ import UIKit
  Comportamento: O usuário precisa saber como seus gestos afetam o app para entender quais ações e comportamentos têm as respostas desejadas.
  Exemplo: O deslizar da Notification Center. Nesse deslizar o usuário sabe que quando puxa do topo da tela, ele consegue ler as suas notificações, e tbm que pode deslizar pra cima e remover essa tela.
  
- 
+ lalamdsaidnindfdnewiuh
  */
+
